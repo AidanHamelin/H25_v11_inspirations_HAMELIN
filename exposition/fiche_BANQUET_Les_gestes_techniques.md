@@ -1,18 +1,18 @@
 
-### NOTES ET PHOTOGRAPHIES À INTÉGRER DANS LES FICHES DE PRÉSENTATION 
+## EXPOSITION BANQUET AU CENTRE DES SCIENCES DE MONTRÉAL
 
 
-|  Information recherchée  | Appui visuel à intégrer | Détails supplémentaires |
+|  Information recherchée  | Information et détails | Appuis visuel |
 | ---     | ---             | --- |
-| Nom de l'exposition ou de l'événement|![Image](https://github.com/user-attachments/assets/677e26fe-bb32-4966-bd4c-19353e1dd956)| |
-| Lieu de mise en exposition    | ![BANQUET_300125_11](https://github.com/user-attachments/assets/e28628b2-725b-4cc3-ab32-f01fb9bc45fe)| | 
-| Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | C'est une expérience multisensorielle temporaire qui est présenté centre des sciences de montréal du 20 juin - 31 août 2024  |  |
+| Nom de l'exposition ou de l'événement||![Image](https://github.com/user-attachments/assets/677e26fe-bb32-4966-bd4c-19353e1dd956) |
+| Lieu de mise en exposition    | | ![BANQUET_300125_11](https://github.com/user-attachments/assets/e28628b2-725b-4cc3-ab32-f01fb9bc45fe)| 
+| Type d'exposition | C'est une expérience multisensorielle temporaire qui est présenté centre des sciences de montréal du 20 juin - 31 août 2024  |  |
 | Date de votre visite    |      30 janvier 2025      |  |
-| Titre de l'oeuvre ou du dispositif | Vue d'ensemble de l'oeuvre ou du dispositif  |  |
+| Titre de l'oeuvre ou du dispositif | Les gestes techniques  | ![BANQUET_300125_05](https://github.com/user-attachments/assets/eef06b66-8fb7-4a1f-bc57-1de8d7f111b2)|
 | Nom de l'artiste ou de la firme    |     Banquet    |  |
 | Année de réalisation     |     16 mai 2024     |  |
-| Description de l'oeuvre ou du dispositif  | L'oeuvre comporte 2 activitées interactives. Elles sont sous forme de "défi" interactive. Les gestes techniques comportes celui de rouler un cylindre rigide et de "fouetter". Chaque défi gardais comme information la technique que l'utilisateur utilisait et vas donner un résultat en étoiles. Les écrans situés devant les dispositifs interactifs montrait aussi en temp réel la technique utilisé et la technique qui devrat etre utilisé        | À composer ou reprendre la description offerte sur le site de l'artiste ou sur le cartel en **indiquant bien sa source** |
-| Type d'installation (contemplative, immersive, interactive) | Vue *descriptive* - vidéo OU photo qui nous permet de bien comprendre le type d'installation             | --- |
+| Description de l'oeuvre ou du dispositif  | L'oeuvre comporte 2 activitées interactives. Elles sont sous forme de "défi" interactive. Les gestes techniques comportes celui de rouler un cylindre rigide et de "fouetter". Chaque défi gardais comme information la technique que l'utilisateur utilisait et vas donner un résultat en étoiles. Les écrans situés devant les dispositifs interactifs montrait aussi en temp réel la technique utilisé et la technique qui devrat etre utilisé |La cuisine : À mi-chemin entre cuisine et laboratoire, glissez-vous dans la peau d’un apprenti cuisinier pour apprendre les techniques et les savoir faire culinaires grâce à diverses activités interactives. https://www.centredessciencesdemontreal.com/sites/default/files/inline-files/cp-expo-banquet_final.pdf|
+| Type d'installation  | Les Gestes Techniques est une installation interactive |![BANQUET_300125_09](https://github.com/user-attachments/assets/4fee40ef-200f-4afd-a6ac-3f894001efd0)|
 | Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)    | Vue *descriptive* - vidéo OU photo qui nous permet de bien comprendre la fonction du dispositif multimédia         |  |
 | Mise en espace   | Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)        | Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?  |
 | Composantes et techniques     | Parties composantes de l'oeuvre ou du dispositif (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires) | Liste des composantes et techniques utilisées (ce que l'artiste ou la firme a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer) |
