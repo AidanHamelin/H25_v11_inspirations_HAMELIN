@@ -17,7 +17,6 @@
 | Mise en espace   |L'activité interactive est situé très proche du début de la présentation.  |![BANQUET_300125_04](https://github.com/user-attachments/assets/3deca695-27c1-4c87-9d0a-ec5538aeddea)|
 | Composantes et techniques     |  | L' activité interactive comporte 2 écrans qui monte les objets en temps réel et monte aussi la technique à utiliser. Il y a aussi les deux objets interactifs comme le fouet et bol pour l'activité de fouet et le rouleau. Pour finir le tout ils on mis des affiches sur les murs pour expliquer l'activité |
 | Éléments nécessaires à la mise en exposition   |Pas beacoup de matériel a été utilisé pour la mise en exposition. tout les techniqualitées sont caché derriere une boite de bois |  |
-| Expérience vécue     | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou du dispositif ou l'interactivité avec l'oeuvre ou le dispositif      | Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment réagit l'oeuvre ou le dispositif (si interactivité)? Plus personnellement, description de l'expérience que l'oeuvre ou le dispositif vous a fait vivre. |
-| :heart: Ce qui vous a plu, vous a donné des idées    | Éléments pertinents       | Texte à rédiger qui présente un ou des aspects inspirants, avec **justifications détaillées** (pourquoi est-ce que cela vous a plus/ vous a donné des idées ? |
-| :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement    | Éléments pertinents      |Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec **justifications détaillées** (pourquoi? comment?)  | 
-| Références     |          |hyperliens vers les sites consultés  |
+| Références | | [https://www.centredessciencesdemontreal.com/exposition-temporaire ](https://www.centredessciencesdemontreal.com/exposition-temporaire/l-exposition-interactive-banquet#:~:text=L%27exposition%20interactive%20Banquet) |
+
+
