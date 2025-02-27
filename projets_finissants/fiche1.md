@@ -47,29 +47,14 @@ Les objets techniques comporte des ordinateurs et des applications nécessaires.
 
 ![4](https://github.com/user-attachments/assets/6a077471-c598-4b5c-acea-ab664dbd18a7)
 
-###  Type d'exposition:
-###  Type d'exposition:
-###  Type d'exposition:
-###  Type d'exposition:
-###  Type d'exposition:
+###  Expériebce vécue :
+Les visiteurs sont situé a l'avant de la présentation, ou ce trouve les 3 plaques intéractives. Ils ce tiennent debout et n'ont qu'a s'étendre les brase pour toucher les plaques.
+![5](https://github.com/user-attachments/assets/6a9bbf8c-a371-4023-9305-dad14a91538f)
+
+###   Ce qui vous a plu, vous a donné des idées :
+J'ai personellement vraiment apprécier comment les interactions respectives des plaques affectaient aussi les interaction qu'avait les autres plaques.
 
 
-
-
-## INFORMATION
-
-
-
-
-
-
-
-
-
-
-| Composantes et techniques     | Parties composantes de l'oeuvre ou du dispositif (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires) | Liste des composantes et techniques utilisées (ce que l'artiste ou la firme a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer) |
-| Éléments nécessaires à la mise en exposition   | Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires) | Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre ou le dispositif soit exposé (bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs...)   |
-| Expérience vécue     | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou du dispositif ou l'interactivité avec l'oeuvre ou le dispositif      | Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment réagit l'oeuvre ou le dispositif (si interactivité)? Plus personnellement, description de l'expérience que l'oeuvre ou le dispositif vous a fait vivre. |
-| :heart: Ce qui vous a plu, vous a donné des idées    | Éléments pertinents       | Texte à rédiger qui présente un ou des aspects inspirants, avec **justifications détaillées** (pourquoi est-ce que cela vous a plus/ vous a donné des idées ? |
-| :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement    | Éléments pertinents      |Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec **justifications détaillées** (pourquoi? comment?)  | 
-| Références     |          |hyperliens vers les sites consultés  |
+###  Références :
+- https://miaou-mafia.github.io/projet-luminatura/#/
+- https://www.youtube.com/watch?v=i6xJno_NFSc
