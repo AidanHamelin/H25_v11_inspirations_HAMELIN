@@ -29,7 +29,7 @@ Luminatura
 2025, session d'hiver
 
 ###  Description de l'oeuvre ou du dispositif:
-En touchant une plaque métallique, le capteur capacitif détecte la conductivité des mains de l'utilisateur et déclenche une lumière douce et chaleureuse, accompagnée de sons apaisants inspirés de la nature. Le potentiel de transformation que chacun peut exercer sur son environnement est illustré par cette interraction. Source: https://www.youtube.com/watch?v=i6xJno_NFSc&t=1s
+En touchant une plaque métallique, le capteur capacitif détecte la conductivité des mains de l'utilisateur et déclenche une lumière douce et chaleureuse, accompagnée de sons apaisants inspirés de la nature. Le potentiel de transformation que chacun peut exercer sur son environnement est illustré par cette interaction. Source: https://www.youtube.com/watch?v=i6xJno_NFSc&t=1s
 
 ###  Type d'installation:
 L'installation est du type immersive et interactive, Nous pouvons intéragier avec les plaques et cela vas changer les projections sur les murs et sur le sol. il y aura aussi des effets sonores et des vibrations.
