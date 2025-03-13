@@ -22,6 +22,7 @@ L'objectif ultime du projet est de créer un sentiment de camaraderie, d'excitat
 
 ![9](https://github.com/user-attachments/assets/5f439d8c-6bd6-4827-a973-90f38097493b)
 photo prise par Aidan Hamelin
+
 Opinion personnel:
 
 J'ai trouver ce projet très intéressant ce type d'interaction n'est pas quelque chose que j'avais eu la chance d'essayer dans le passer. 
