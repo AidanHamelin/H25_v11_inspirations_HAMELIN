@@ -62,6 +62,8 @@ Photo officiel prise par l'équipe du projet
 ###   Ce qui vous a plu, vous a donné des idées :
 J'ai personellement vraiment apprécier comment les interactions respectives des plaques affectaient aussi les interaction qu'avait les autres plaques.
 
+### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :
+Je trouve que le projet a très bien été exécuté, si je devais faire quelque chose de différent, j'aurais potentiellement rajouter plus d'éléments projectés.
 
 ###  Références :
 - https://miaou-mafia.github.io/projet-luminatura/#/
